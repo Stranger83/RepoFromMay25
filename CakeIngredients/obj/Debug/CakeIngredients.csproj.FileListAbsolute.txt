@@ -1,0 +1,5 @@
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\CakeIngredients\bin\Debug\CakeIngredients.exe.config
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\CakeIngredients\bin\Debug\CakeIngredients.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\CakeIngredients\bin\Debug\CakeIngredients.pdb
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\CakeIngredients\obj\Debug\CakeIngredients.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\CakeIngredients\obj\Debug\CakeIngredients.pdb

@@ -1,0 +1,6 @@
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\CountTheIntegers\bin\Debug\CountTheIntegers.exe.config
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\CountTheIntegers\bin\Debug\CountTheIntegers.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\CountTheIntegers\bin\Debug\CountTheIntegers.pdb
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\CountTheIntegers\obj\Debug\CountTheIntegers.csprojResolveAssemblyReference.cache
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\CountTheIntegers\obj\Debug\CountTheIntegers.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\CountTheIntegers\obj\Debug\CountTheIntegers.pdb

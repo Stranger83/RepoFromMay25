@@ -1,0 +1,5 @@
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\MagicLetter\bin\Debug\MagicLetter.exe.config
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\MagicLetter\bin\Debug\MagicLetter.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\MagicLetter\bin\Debug\MagicLetter.pdb
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\MagicLetter\obj\Debug\MagicLetter.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\MagicLetter\obj\Debug\MagicLetter.pdb

@@ -1,0 +1,5 @@
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\WordInPlural\bin\Debug\WordInPlural.exe.config
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\WordInPlural\bin\Debug\WordInPlural.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\WordInPlural\bin\Debug\WordInPlural.pdb
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\WordInPlural\obj\Debug\WordInPlural.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\WordInPlural\obj\Debug\WordInPlural.pdb

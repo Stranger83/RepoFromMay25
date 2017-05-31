@@ -1,0 +1,6 @@
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\Hotel\bin\Debug\Hotel.exe.config
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\Hotel\bin\Debug\Hotel.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\Hotel\bin\Debug\Hotel.pdb
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\Hotel\obj\Debug\Hotel.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\Hotel\obj\Debug\Hotel.pdb

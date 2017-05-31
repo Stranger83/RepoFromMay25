@@ -1,0 +1,5 @@
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\DifferentNumbers\bin\Debug\DifferentNumbers.exe.config
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\DifferentNumbers\bin\Debug\DifferentNumbers.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\DifferentNumbers\bin\Debug\DifferentNumbers.pdb
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\DifferentNumbers\obj\Debug\DifferentNumbers.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\DifferentNumbers\obj\Debug\DifferentNumbers.pdb

@@ -1,0 +1,5 @@
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe.config
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.pdb
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.pdb

@@ -1,0 +1,5 @@
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\ChooseDrink2\bin\Debug\ChooseDrink2.exe.config
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\ChooseDrink2\bin\Debug\ChooseDrink2.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\ChooseDrink2\bin\Debug\ChooseDrink2.pdb
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\ChooseDrink2\obj\Debug\ChooseDrink2.exe
+D:\work\SoftUni\Programming Fundamentals May 2017\Projects\May-25\ChooseDrink2\obj\Debug\ChooseDrink2.pdb
